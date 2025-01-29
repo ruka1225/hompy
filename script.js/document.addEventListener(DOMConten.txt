@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded", function () { let audio = document.querySelector("audio"); audio.volume = 0.5; // 볼륨 조절 (0.0 ~ 1.0) });
